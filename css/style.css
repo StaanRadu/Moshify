@@ -340,7 +340,7 @@ background: #00c8eb;
     display: inline-block;
     position: absolute;
     right: 5%;
-    top: -8px;
+    top: -6px;
   }
 
   @media screen and (min-width: 1024px) {
@@ -360,3 +360,21 @@ background: #00c8eb;
       font-size: 1.7rem;
     }
   }
+
+  /* Media */ 
+
+.media{
+    display: flex;
+}
+
+.media__title{
+    margin-top: 0;
+}
+
+.media__body{
+    margin: 0 2rem;
+}
+
+.media__image {
+    margin-top: 1rem;
+}
