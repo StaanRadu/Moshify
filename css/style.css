@@ -127,40 +127,6 @@ a {
     }
 }
 
-/* Lists  */
-
-/* .list { 
-    list-style: none; 
-    padding-left: 0;
-}
-
-.list__li {
-    margin-bottom: 2.5rem;
-    font-weight: 600;
-}
-
-.list__tick { 
-    color: #2dd5a7;
-    font-size: 1.5rem;
-    padding-right: 2rem;
-    padding-left: 3rem;
-}
-
-.list--color {
-    color: var(--color-heading);
-} 
-    
-.inline-lists { 
-    display: flex; 
-    flex-direction: row;
-}
- */
-
-
-
-
-/* Lists By Mosh */
-
 .list { 
     list-style: none;
     padding-left: 0;
